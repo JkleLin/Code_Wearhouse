@@ -12,6 +12,8 @@ int main() {
 	while (getline(f5, str)) {
     //判断是否为空行↓
 		while (str.size() != 0) {
+			if (str[i] == '\0')       //判断是否到行末
+				break;
 			if (str[i] == '/')
 				if (str[i + 1] == '/')//判断是否为注释
 					break;
