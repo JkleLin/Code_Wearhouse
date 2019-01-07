@@ -1,0 +1,51 @@
+
+; //*************************************//
+; //                                     //
+; //       复杂模型机实验指令文件        //
+; //                                     //
+; //       By TangDu CO.,LTD             //
+; //                                     //
+; //*************************************//
+
+; //***** Start Of Main Memory Data *****//
+
+  $P 00 20    ; START: IN R0,00H  从IN单元读入计数初值
+  $P 01 00
+  $P 02 41    ;MOV
+  $P 03 71    ;INC
+  $P 04 84    ; SUB
+  $P 05 30    ;OUT 
+  $P 06 40    
+  $P 07 50    ;HLT       
+ 
+  
+ 
+
+; //***** End Of Main Memory Data *****//
+
+
+; //** Start Of MicroController Data **//
+
+  $M 00 000001    ; NOP
+  $M 01 006D43    ; PC->AR, PC加1
+  $M 03 107070    ; MEM->IR, P<1>
+  $M 08 106009    ; MEM->AR
+  $M 09 183001    ; IO->RD
+  $M 0A 106010    ; MEM->AR
+  $M 10 280401    ; RS->IO
+  $M 11 103001    ; MEM->RD
+  $M 12 06B201    ; A加1->RD
+  $M 13 002414    ; RS->B
+  $M 14 05B201    ; A减B->RD
+  $M 32 006D48    ; PC->AR, PC加1
+  $M 33 006D4A    ; PC->AR, PC加1
+  $M 34 003401    ; RS->RD
+  $M 35 000035    ; NOP
+  $M 37 001612    ; RD->A
+  $M 38 001613    ; RD->A
+
+
+; //** End Of MicroController Data **//
+
+
+
