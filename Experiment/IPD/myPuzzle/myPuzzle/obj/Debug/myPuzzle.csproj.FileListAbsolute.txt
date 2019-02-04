@@ -1,0 +1,12 @@
+C:\Univercity\exp\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe.config
+C:\Univercity\exp\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe
+C:\Univercity\exp\myPuzzle\myPuzzle\bin\Debug\myPuzzle.pdb
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csprojAssemblyReference.cache
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Main.resources
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Original.resources
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Properties.Resources.resources
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.GenerateResource.cache
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.CoreCompileInputs.cache
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.exe
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.pdb
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Callenge.resources
