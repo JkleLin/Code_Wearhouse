@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<studentcontract>
+  <student studentid="8172949">
+    <name>林大壮</name>
+    <sex>男</sex>
+    <age>19</age>
+    <birthdate>1999-03-12</birthdate>
+    <phone>153142678754</phone>
+    <homeaddress>ZH</homeaddress>
+    <email>16875345678@qq.com</email>
+    <profession>computer</profession>
+  </student>
+  <student studentid="3">
+    <name>3</name>
+    <sex>男</sex>
+    <age>26</age>
+    <birthdate>1992-10-10</birthdate>
+    <phone>3</phone>
+    <homeaddress>3</homeaddress>
+    <email>3</email>
+    <profession>art</profession>
+  </student>
+  <student studentid="4">
+    <name>4</name>
+    <sex>男</sex>
+    <age>1</age>
+    <birthdate>2017-10-15</birthdate>
+    <phone>4</phone>
+    <homeaddress>4</homeaddress>
+    <email>4</email>
+    <profession>4</profession>
+  </student>
+  <student studentid="5">
+    <name>3</name>
+    <sex>女</sex>
+    <age>3</age>
+    <birthdate>2018-10-15</birthdate>
+    <phone>3</phone>
+    <homeaddress>3</homeaddress>
+    <email>3</email>
+    <profession>3</profession>
+  </student>
+  <student studentid="1">
+    <name>1</name>
+    <sex>男</sex>
+    <age>1</age>
+    <birthdate>2018-10-15</birthdate>
+    <phone>1</phone>
+    <homeaddress>1</homeaddress>
+    <email>1</email>
+    <profession>2</profession>
+  </student>
+  <student studentid="6">
+    <name>2</name>
+    <sex>男</sex>
+    <age>4</age>
+    <birthdate>2014-10-15</birthdate>
+    <phone>11</phone>
+    <homeaddress>1</homeaddress>
+    <email>1</email>
+    <profession>1</profession>
+  </student>
+</studentcontract>

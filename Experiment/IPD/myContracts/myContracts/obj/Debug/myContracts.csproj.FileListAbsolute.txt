@@ -1,0 +1,13 @@
+C:\Univercity\exp\myContracts\myContracts\obj\Debug\myContracts.csprojAssemblyReference.cache
+C:\Univercity\exp\myContracts\myContracts\obj\Debug\myContracts.Form_Add.resources
+C:\Univercity\exp\myContracts\myContracts\obj\Debug\myContracts.Form_Edit.resources
+C:\Univercity\exp\myContracts\myContracts\obj\Debug\myContracts.Form_Main.resources
+C:\Univercity\exp\myContracts\myContracts\obj\Debug\myContracts.Form_Search.resources
+C:\Univercity\exp\myContracts\myContracts\obj\Debug\myContracts.Properties.Resources.resources
+C:\Univercity\exp\myContracts\myContracts\obj\Debug\myContracts.csproj.GenerateResource.cache
+C:\Univercity\exp\myContracts\myContracts\obj\Debug\myContracts.csproj.CoreCompileInputs.cache
+C:\Univercity\exp\myContracts\myContracts\bin\Debug\myContracts.exe.config
+C:\Univercity\exp\myContracts\myContracts\bin\Debug\myContracts.exe
+C:\Univercity\exp\myContracts\myContracts\bin\Debug\myContracts.pdb
+C:\Univercity\exp\myContracts\myContracts\obj\Debug\myContracts.exe
+C:\Univercity\exp\myContracts\myContracts\obj\Debug\myContracts.pdb
