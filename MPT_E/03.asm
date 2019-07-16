@@ -19,5 +19,6 @@ MOV     DX,281H
 OUT     DX,AL
 
 JMP ON
+
 CODE ENDS
     END START
