@@ -169,6 +169,7 @@ public class Calculator {
             case "7":
                 if (isClear){
                     textField.setText("7");
+                    isClear = false;
                 }
                 else{
                     textField.setText(textField.getText() + '7');
@@ -177,6 +178,7 @@ public class Calculator {
             case "8":
                 if (isClear){
                     textField.setText("8");
+                    isClear = false;
                 }
                 else{
                     textField.setText(textField.getText() + '8');
@@ -185,6 +187,7 @@ public class Calculator {
             case "9":
                 if (isClear){
                     textField.setText("9");
+                    isClear = false;
                 }
                 else{
                     textField.setText(textField.getText() + '9');
@@ -203,6 +206,7 @@ public class Calculator {
             case "4":
                 if (isClear){
                     textField.setText("4");
+                    isClear = false;
                 }
                 else{
                     textField.setText(textField.getText() + '4');
@@ -211,6 +215,7 @@ public class Calculator {
             case "5":
                 if (isClear){
                     textField.setText("5");
+                    isClear = false;
                 }
                 else{
                     textField.setText(textField.getText() + '5');
@@ -219,6 +224,7 @@ public class Calculator {
             case "6":
                 if (isClear){
                     textField.setText("6");
+                    isClear = false;
                 }
                 else{
                     textField.setText(textField.getText() + '6');
@@ -237,6 +243,7 @@ public class Calculator {
             case "1":
                 if (isClear){
                     textField.setText("1");
+                    isClear = false;
                 }
                 else{
                     textField.setText(textField.getText() + '1');
@@ -245,6 +252,7 @@ public class Calculator {
             case "2":
                 if (isClear){
                     textField.setText("2");
+                    isClear = false;
                 }
                 else{
                     textField.setText(textField.getText() + '2');
@@ -253,6 +261,7 @@ public class Calculator {
             case "3":
                 if (isClear){
                     textField.setText("3");
+                    isClear = false;
                 }
                 else{
                     textField.setText(textField.getText() + '3');
