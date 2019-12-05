@@ -1,7 +1,7 @@
 # 该仓库用于存储学校各种作业与实验的代码  
 
 程序设计综合实践  
-Experiment/  
+Experiment/IPD  
   
 各种C++作业  
 Homework/  
